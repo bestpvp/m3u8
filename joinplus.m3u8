@@ -3,9 +3,9 @@
 #EXT-X-TARGETDURATION:4
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:3.966667,
-/bestpvp/m3u8/refs/heads/main/joinplus/joinplus0.ts
+https://raw.githubusercontent.com/bestpvp/m3u8/refs/heads/main/joinplus/joinplus0.ts
 #EXTINF:1.000000,
-/bestpvp/m3u8/refs/heads/main/joinplus/joinplus1.ts
+https://raw.githubusercontent.com/bestpvp/m3u8/refs/heads/main/joinplus/joinplus1.ts
 #EXTINF:2.833333,
-/bestpvp/m3u8/refs/heads/main/joinplus/joinplus2.ts
+https://raw.githubusercontent.com/bestpvp/m3u8/refs/heads/main/joinplus/joinplus2.ts
 #EXT-X-ENDLIST
