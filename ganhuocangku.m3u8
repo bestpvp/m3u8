@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:2.000000,
+/bestpvp/m3u8/raw/master/ganhuocangku/ganhuocangku0.ts
+#EXTINF:2.000000,
+/bestpvp/m3u8/raw/master/ganhuocangku/ganhuocangku1.ts
+#EXTINF:2.133333,
+/bestpvp/m3u8/raw/master/ganhuocangku/ganhuocangku2.ts
+#EXTINF:2.000000,
+/bestpvp/m3u8/raw/master/ganhuocangku/ganhuocangku3.ts
+#EXTINF:1.366667,
+/bestpvp/m3u8/raw/master/ganhuocangku/ganhuocangku4.ts
+#EXT-X-ENDLIST
