@@ -3,11 +3,11 @@
 #EXT-X-TARGETDURATION:3
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:2.133333,
-/bestpvp/m3u8/raw/master/join2/join20.ts
+https://raw.githubusercontent.com/bestpvp/m3u8/refs/heads/main/join2/join20.ts
 #EXTINF:2.133333,
-/bestpvp/m3u8/raw/master/join2/join21.ts
+https://raw.githubusercontent.com/bestpvp/m3u8/refs/heads/main/join2/join21.ts
 #EXTINF:2.766667,
-/bestpvp/m3u8/raw/master/join2/join22.ts
+https://raw.githubusercontent.com/bestpvp/m3u8/refs/heads/main/join2/join22.ts
 #EXTINF:1.466667,
-/bestpvp/m3u8/raw/master/join2/join23.ts
+https://raw.githubusercontent.com/bestpvp/m3u8/refs/heads/main/join2/join23.ts
 #EXT-X-ENDLIST

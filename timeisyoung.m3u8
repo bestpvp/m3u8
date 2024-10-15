@@ -3,11 +3,11 @@
 #EXT-X-TARGETDURATION:4
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:3.666667,
-/bestpvp/m3u8/raw/master/timeisyoung/timeisyoung0.ts
+https://raw.githubusercontent.com/bestpvp/m3u8/refs/heads/main/timeisyoung/timeisyoung0.ts
 #EXTINF:2.033333,
-/bestpvp/m3u8/raw/master/timeisyoung/timeisyoung1.ts
+https://raw.githubusercontent.com/bestpvp/m3u8/refs/heads/main/timeisyoung/timeisyoung1.ts
 #EXTINF:2.566667,
-/bestpvp/m3u8/raw/master/timeisyoung/timeisyoung2.ts
+https://raw.githubusercontent.com/bestpvp/m3u8/refs/heads/main/timeisyoung/timeisyoung2.ts
 #EXTINF:1.733333,
-/bestpvp/m3u8/raw/master/timeisyoung/timeisyoung3.ts
+https://raw.githubusercontent.com/bestpvp/m3u8/refs/heads/main/timeisyoung/timeisyoung3.ts
 #EXT-X-ENDLIST
